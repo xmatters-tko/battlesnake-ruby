@@ -14,13 +14,14 @@ You'll need the follwing software on your computer before you can get started:
 
 You'll need the following software on your computer if you want to compile and run the application locally. This is completely optional but probably desired since troubleshooting coding errors and testing behaviour will be much easier. 
 - [Ruby 2.4](https://gorails.com/setup)
-- [Rails 5.x](https://gorails.com/setup)
+- [Bundler 1.15](http://bundler.io/)```gem install bundler```
 
 If you have the software installed already, confirm by running the respective commands on the command prompt and check the versions:
 - ```git --version```
 - ```heroku --version```
 - ```ruby -v```
 - ```rails -v```
+- ```bundle version```
 
 ## Preparing your project
 You'll also need the (free) accounts from the following services:
