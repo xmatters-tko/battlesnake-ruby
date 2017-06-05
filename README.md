@@ -7,7 +7,7 @@ To get started you'll need a working Ruby development environment, and at least 
 This is loosely based on Heroku's official [Getting Started with Ruby App](https://github.com/heroku/ruby-getting-started). The web.rb is where the three actions must be implemented: start, move, end. Each handler is already set up to parse and render JSON.
 
 ## Pre-requisite Accounts
-Every team must show up with a laptop and create the following accounts in order to use the provided start snake. You are welcome to use an existing accounts if you have them already.
+Every team must show up with a laptop and create the following accounts in order to use the provided start snake. You are welcome to use existing accounts if you have them already.
 * Create a free account on Github - https://www.github.com/
 * Create a free account on Heroku - https://www.heroku.com/
 
